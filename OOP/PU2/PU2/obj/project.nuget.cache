@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdrus2Kv0TkEoJAAKilPCvvPXYtea6xeUiNIBGmTYs+k0tu93bCVmOD8ZoyqMg1wkSCH0vMa6/MFv8Koub294g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Truth\\Source\\Repos\\ViKo\\OOP\\PU2\\PU2\\PU2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Truth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

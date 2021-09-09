@@ -1,0 +1,15 @@
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\bin\Debug\netcoreapp3.1\PU2.exe
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\bin\Debug\netcoreapp3.1\PU2.deps.json
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\bin\Debug\netcoreapp3.1\PU2.runtimeconfig.json
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\bin\Debug\netcoreapp3.1\PU2.runtimeconfig.dev.json
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\bin\Debug\netcoreapp3.1\PU2.dll
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\bin\Debug\netcoreapp3.1\PU2.pdb
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.csprojAssemblyReference.cache
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.Form1.resources
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.csproj.GenerateResource.cache
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.AssemblyInfoInputs.cache
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.AssemblyInfo.cs
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.csproj.CoreCompileInputs.cache
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.dll
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.pdb
+C:\Users\Truth\Source\Repos\ViKo\OOP\PU2\PU2\obj\Debug\netcoreapp3.1\PU2.genruntimeconfig.cache
